@@ -1,0 +1,1 @@
+# browserstack-cypress-percy-example
